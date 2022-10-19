@@ -27,7 +27,11 @@
 14. Tell the positive Negative Number-206
 15. Tell the upper case and lower case of a character-207
 16. Tell the vowel and consonant of a character-208
-17. 
+17. Find the biggest number from two inputs-14
+18. Find the biggest number form three inputs-15
+19. Check even or odd-16
+20. Check grade system using if-else-17
+21. Check three sides formed tringle or not-18
 
 
 ####  Problem-1 
