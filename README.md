@@ -1,3 +1,8 @@
+#   Article Link:
+1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
+
+
+
 #   Some practising ProblemSet link:
 https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
 
@@ -13,6 +18,8 @@ https://www.w3resource.com/c-programming-exercises/conditional-statement/index.p
 
 
 # ProblemSet-1(1-6)
+1. https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
+2. https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 ####  Problem-1 
 Write a C program to show output like below: 
 
