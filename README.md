@@ -2,9 +2,9 @@
 https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
 
 
-#Exerice problems:
-
-
+#   Exerice problems:
+01. hellow word program-01
+02. Even odd program-08
 
 
 # ProblemSet-1(1-6)
