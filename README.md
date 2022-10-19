@@ -3,8 +3,13 @@ https://www.w3resource.com/c-programming-exercises/conditional-statement/index.p
 
 
 #   Exerice problems:
-01. hellow word program-01
-02. Even odd program-08
+1. hellow word program-01
+2. Even odd program-08
+3. Find the large number-09
+4. Find the larfe number and quality-10
+5. Weight two even problem-11
+6. Weight two even and equal problem-12
+7. Addition and Subtraction based on even or odd input-13
 
 
 # ProblemSet-1(1-6)
