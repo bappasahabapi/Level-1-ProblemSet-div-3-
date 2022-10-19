@@ -3,8 +3,8 @@
 
 
 # ProblemSet-1(1-6)
-1. https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
-2. https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
+1. (1-6): https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
+2. (14-19): https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 
 #   Some practising ProblemSet link:
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
