@@ -1,3 +1,12 @@
+#   Some practising ProblemSet link:
+https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
+
+
+#Exerice problems:
+
+
+
+
 # ProblemSet-1(1-6)
 ####  Problem-1 
 Write a C program to show output like below: 
