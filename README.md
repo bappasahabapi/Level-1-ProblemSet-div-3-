@@ -1,4 +1,4 @@
-#   Article Link:
+#   Article Notes Link:
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
 
 
