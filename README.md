@@ -24,7 +24,10 @@
 11. Character data types-203
 12. Arithemetic Operations-204
 13. How can we take input from character-205
-14. 
+14. Tell the positive Negative Number-206
+15. Tell the upper case and lower case of a character-207
+16. Tell the vowel and consonant of a character-208
+17. 
 
 
 ####  Problem-1 
