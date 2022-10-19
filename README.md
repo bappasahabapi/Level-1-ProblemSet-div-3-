@@ -2,9 +2,12 @@
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
 
 
+# ProblemSet-1(1-6)
+1. https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
+2. https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 
 #   Some practising ProblemSet link:
-https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
+1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
 
 
 #   Exerice problems:
@@ -17,9 +20,6 @@ https://www.w3resource.com/c-programming-exercises/conditional-statement/index.p
 7. Addition and Subtraction based on even or odd input-13
 
 
-# ProblemSet-1(1-6)
-1. https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
-2. https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 ####  Problem-1 
 Write a C program to show output like below: 
 
