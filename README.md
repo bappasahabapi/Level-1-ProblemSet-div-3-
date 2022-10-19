@@ -18,6 +18,13 @@
 5. Weight two even problem-11
 6. Weight two even and equal problem-12
 7. Addition and Subtraction based on even or odd input-13
+8. Sum problems-200
+9. Type Casting-201
+10. Sum double floting point number-202
+11. Character data types-203
+12. Arithemetic Operations-204
+13. How can we take input from character-205
+14. 
 
 
 ####  Problem-1 
