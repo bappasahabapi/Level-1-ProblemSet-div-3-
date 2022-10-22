@@ -46,35 +46,45 @@
 
 
 
-####  Problem-1 
-Write a C program to show output like below: 
+####  Problem-1 Write a C program to show output like below: 
 
     Hi there / .     I hope you are doing great and practising well.
     Now this is a simple task you need to do.        just care for the idintation.
     Show 100% of sincerity.
-####  Problem-2
-Write a C program to declare two integer variables and set values 10 and 20 respectively. Now print the second
-number and then the first number. 
+####  Problem-2 Write a C program to declare two integer variables and set values 10 and 20 respectively. Now print the secondnumber and then the first number. 
 
     Input: No input
     Output: 20 10
-####  Problem-3
-Write a C program to take one positive integer as input and print double of it. 
+####  Problem-3 Write a C program to take one positive integer as input and print double of it. 
 
     Input:5
     output:10
-####  Problem-4
-Write a C program to take two positive integers as input and show the summation, subtraction and
-multiplication of those two numbers. 
+####  Problem-4 Write a C program to take two positive integers as input and show the summation, subtraction and multiplication of those two numbers. 
 
     Input:5 2 
     output:7 3 10
-####  Problem-5
-Write a C program to take a character variable and input and show the corresponding ASCII value of that
+####  Problem-5 Write a C program to take a character variable and input and show the corresponding ASCII value of that
 character
 
     Input: A a C d             output:65 97 67 100
-####  Problem-6
-Write a C program to take integer value as input and print that value. There is a twist! The input will contain a % sign. 
+####  Problem-6 Write a C program to take integer value as input and print that value. There is a twist! The input will contain a % sign. 
 
     Input: 20%               output: 20
+### Four players participate in the playoff tournament. The tournament is held according to the following scheme - the first player will play with the second, and the third player with the fourth, then the winners of the pairs will play in the finals of the tournament.
+
+It is known that in a match between two players, the one whose skill is greater will win.The tournament is called fair if the two players with the highest skills meet in the finals.Determine whether the given tournament is fair.
+Output YES if the tournament is fair, or NO otherwise.
+The skill of the first,second,third and fourth player is between 1-100.
+
+    >> Sample input -               
+    3 7 9 5
+    4 5 6 9
+    5 3 8 1
+    6 5 3 2
+    >> Sample output -
+    YES 
+    NO
+    YES
+    NO
+
+
