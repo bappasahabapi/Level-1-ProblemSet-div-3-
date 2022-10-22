@@ -5,6 +5,7 @@
 #### ✅ProblemSet-(1-6)-(14-19)
 1. (1-6): https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
 2. (14-19): https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
+3. (20-25): https://docs.google.com/document/u/1/d/1RFLjO-nBodkEXXL12HQ27RfYlnPczybCdRWNGYw8aKI/mobilebasic?fbclid=IwAR2tu-XgBO-g5Zzf2kSiFlBDSkTr4UAo3kAK3-CA-35Dv-0nin11RJKuEYY
 
 ####   ♻Some practising ProblemSet link:
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
