@@ -33,16 +33,17 @@
 19. Check even or odd-16
 20. Check grade system using if-else-17
 21. Check three sides formed tringle or not-18
-22.
-23.
-24.
-25.
-26. Print 1 to N program-401
-27. Multiplication table -402
-28. Multiplication table usiing additioin formulda -403
-29. Multiplication table 1 to N -404
-30. Permutation problem of a,b,c -405
-31. Permutation problem simplified version -406
+22. Domino Tight problem -20
+23. Domino Tight problem -21
+24. Fair Tournament Problem -22
+25. Card maximum possible problwm-23
+26.
+27. Print 1 to N program-401
+28. Multiplication table -402
+29. Multiplication table usiing additioin formulda -403
+30. Multiplication table 1 to N -404
+31. Permutation problem of a,b,c -405
+32. Permutation problem simplified version -406
 
 
 
