@@ -18,7 +18,7 @@
 3. Find the large number-09
 4. Find the larfe number and quality-10
 5. Weight two even problem-11
-6. Weight two even and equal problem-12
+6. Weight two even and equal problem-12("watermilon codeforce")
 7. Addition and Subtraction based on even or odd input-13
 8. Sum problems-200
 9. Type Casting-201
