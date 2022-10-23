@@ -38,7 +38,7 @@
 23. Domino Tight problem -21
 24. Fair Tournament Problem -22
 25. Card maximum possible problwm-23
-26.
+26. <b>3n+1 odd even problem -24</b>
 27. Print 1 to N program-401
 28. Multiplication table -402
 29. Multiplication table usiing additioin formulda -403
