@@ -47,6 +47,7 @@
 32. <b>Permutation problem simplified version -406</b>
 33. <b>Factorial problem -25</b>
 34. Summatio of N input passenger weight-26
+35. <b>Choklet interesting problem -27<b>
 
 
 
