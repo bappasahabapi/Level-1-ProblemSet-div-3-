@@ -18,7 +18,7 @@
 3. Find the large number-09
 4. Find the larfe number and quality-10
 5. Weight two even problem-11
-6. Weight two even and equal problem-12("watermilon codeforce")
+6. <br>Weight two even and equal problem-12("watermilon codeforce")</br>
 7. Addition and Subtraction based on even or odd input-13
 8. Sum problems-200
 9. Type Casting-201
@@ -35,16 +35,17 @@
 20. Check grade system using if-else-17
 21. Check three sides formed tringle or not-18
 22. Domino Tight problem -20
-23. Domino Tight problem -21
-24. Fair Tournament Problem -22
-25. Card maximum possible problwm-23
+23. <b>Domino Tight problem -21</b>
+24. <b>Fair Tournament Problem -22</b>
+25. <b>Card maximum possible problwm-23</b>
 26. <b>3n+1 odd even problem -24</b>
 27. Print 1 to N program-401
 28. Multiplication table -402
 29. Multiplication table usiing additioin formulda -403
 30. Multiplication table 1 to N -404
 31. Permutation problem of a,b,c -405
-32. Permutation problem simplified version -406
+32. <b>Permutation problem simplified version -406</b>
+33. <b>Factorial problem -25</b>
 
 
 
