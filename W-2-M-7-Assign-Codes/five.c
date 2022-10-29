@@ -14,9 +14,12 @@ int main()
         else{
             n=n-1;
         }
-        printf("%d ",n);
+        if (n==1)
+        {
+            printf("%d\n",n);
+            break;
+        }
+        printf("%d, ",n);
     }
-    
-
     return 0;
 }
