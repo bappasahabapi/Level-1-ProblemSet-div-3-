@@ -12,13 +12,16 @@
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
 
 
-####  👇 Exerice problems:
+##  👇 Exerice problems:
+### Problems For Examination-1
+
+ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
 1. hellow word program-01
 2. Even odd program-08
 3. Find the large number-09
 4. Find the larfe number and quality-10
 5. Weight two even problem-11
-6. <br>Weight two even and equal problem-12("watermilon codeforce")</br>
+6. <b>Weight two even and equal problem-12("watermilon codeforce")</b>
 7. Addition and Subtraction based on even or odd input-13
 8. Sum problems-200
 9. Type Casting-201
@@ -48,6 +51,11 @@
 33. <b>Factorial problem -25</b>
 34. Summatio of N input passenger weight-26
 35. <b>Choklet interesting problem -27<b>
+  
+ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+  
+  
+ ### Problems For Examination-2
 
 **Array:**
 
