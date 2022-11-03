@@ -66,5 +66,6 @@
  4. Find the max and min element of an array-604
  5. Count the number of odd or even prestent in the array-605
  6. Find out the missing number from array element-CSES -1083
+ 
 
 
