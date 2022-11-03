@@ -58,6 +58,12 @@
  ### Problems For Examination-2
 
 **Array:**
+ 🔘 Folder name : week-3
+ 1. Simple array-601
+ 2. How to take basic input and output of an array-602
+ 3. How to take n th element input of an array-603
+ 4. Find the max and min element of an array-604
+ 5. Count the number of odd or even prestent in the array-605
 
 
 
