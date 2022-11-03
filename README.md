@@ -57,7 +57,7 @@
   
  ### Problems For Examination-2
 
-**𝓐𝓻𝓻𝓪𝔂:**
+**✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
  
  🔘 Folder name : week-3
  1. Simple array-601
