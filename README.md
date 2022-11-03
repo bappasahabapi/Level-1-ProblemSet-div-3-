@@ -59,7 +59,7 @@
 
 **✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
  
- 🔘 Folder name : week-3
+🔘 Folder name : week-3
  1. Simple array-601
  2. How to take basic input and output of an array-602
  3. How to take n th element input of an array-603
