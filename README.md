@@ -23,13 +23,13 @@
 5. Weight two even problem-11
 6. <b>Weight two even and equal problem-12("watermilon codeforce")</b>
 7. Addition and Subtraction based on even or odd input-13
-8. Sum problems-200
+8. Sum problems-200S
 9. Type Casting-201
 10. Sum double floting point number-202
 11. Character data types-203
 12. Arithemetic Operations-204
 13. How can we take input from character-205
-14. Tell the positive Negative Number-206
+14. Tell the positive NegativEe Number-206
 15. Tell the upper case and lower case of a character-207
 16. Tell the vowel and consonant of a character-208
 17. Find the biggest number from two inputs-14
@@ -37,7 +37,7 @@
 19. Check even or odd-16
 20. Check grade system using if-else-17
 21. Check three sides formed tringle or not-18
-22. Domino Tight problem -20
+22. Domino Tight problem -20S
 23. <b>Domino Tight problem -21</b>
 24. <b>Fair Tournament Problem -22</b>
 25. <b>Card maximum possible problwm-23</b>
@@ -45,7 +45,7 @@
 27. Print 1 to N program-401
 28. Multiplication table -402
 29. Multiplication table usiing additioin formulda -403
-30. Multiplication table 1 to N -404
+30. Multiplication table 1 to N -404C
 31. Permutation problem of a,b,c -405
 32. <b>Permutation problem simplified version -406</b>
 33. <b>Factorial problem -25</b>
@@ -65,6 +65,6 @@
  3. How to take n th element input of an array-603
  4. Find the max and min element of an array-604
  5. Count the number of odd or even prestent in the array-605
-
+ 6. Find out the missing number from array element-CSES -1083
 
 
