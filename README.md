@@ -52,7 +52,7 @@
 34. Summatio of N input passenger weight-26
 35. <b>Choklet interesting problem -27<b>
   
- 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+  
   
   
  ### Problems For Examination-2
@@ -73,7 +73,7 @@
 6. Find the 3rd maximum element from an array-607
 7. Find the 4th maximum element from an array-608
 8. <h3> Find the 2nd minimum element from an array-609</h3>
-9.
+9. <h3> Find the unique and duplicate from an array -610</h3>
 . Count the number of odd or even prestent in the array-605
 
 . Find out the missing number from array element-CSES -1083
