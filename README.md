@@ -2,7 +2,7 @@
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
 
 
-#### ✅ProblemSet-(1-6)-(14-19)
+#### ✅ ProblemSet-(1-6)-(14-19)
 1. (1-6): https://drive.google.com/file/d/19-qgAqNXpuLgY6oY4QPBmoKqtE_vNzep/view
 2. (14-19): https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 3. (20-25): https://docs.google.com/document/u/1/d/1RFLjO-nBodkEXXL12HQ27RfYlnPczybCdRWNGYw8aKI/mobilebasic?fbclid=IwAR2tu-XgBO-g5Zzf2kSiFlBDSkTr4UAo3kAK3-CA-35Dv-0nin11RJKuEYY
@@ -56,6 +56,8 @@
   
   
  ### Problems For Examination-2
+ 
+ ✅ Array retated problem set & solutions: https://docs.google.com/document/d/1JRYttO-7sTSy8tx6Xt5T5DtxCIgDCqSkAS5Q-6CVDqY/edit
 
 **✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
  
