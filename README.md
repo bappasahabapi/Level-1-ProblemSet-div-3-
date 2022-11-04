@@ -61,13 +61,20 @@
 
 **✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
  
-🔘 Folder name : week-3
- 1. Simple array-601
- 2. How to take basic input and output of an array-602
- 3. How to take n th element input of an array-603
- 4. Find the max and min element of an array-604
- 5. Count the number of odd or even prestent in the array-605
- 6. Find out the missing number from array element-CSES -1083
+### 🔘 Folder name : week-3
+
+1. Simple array-601
+2. How to take basic input and output of an array-602
+3. How to take n th element input of an array-603
+4. Find the max and min element of an array-604
+5. Find the 2nd maximun element from an array-606
+6. Find the 3rd maximun element from an array-607
+7. Find the 4th maximun element from an array-608
+8.
+9.
+. Count the number of odd or even prestent in the array-605
+
+. Find out the missing number from array element-CSES -1083
  
 
 
