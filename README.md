@@ -69,10 +69,10 @@
 2. How to take basic input and output of an array-602
 3. How to take n th element input of an array-603
 4. Find the max and min element of an array-604
-5. <h4>Find the 2nd maximum element from an array-606</h4>
+5. <h3>Find the 2nd maximum element from an array-606</h3>
 6. Find the 3rd maximum element from an array-607
 7. Find the 4th maximum element from an array-608
-8. <h4> Find the 2nd minimum element from an array-609</h4>
+8. <h3> Find the 2nd minimum element from an array-609</h3>
 9.
 . Count the number of odd or even prestent in the array-605
 
