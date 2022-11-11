@@ -88,8 +88,10 @@
  5. Two dimentational array i/o other way -405
  6. Checking diagonal or not primaray diagonal using matrix -406
  7. Checking secondary or not using matrix -407
- 8. Checking scalar matrix or not -408
- 9. Checking identity matrix or not -409
+ 8. Checking scalar matrix or not -409
+ 9. Checking identity matrix or not -410
+ 10. Selecton sotrt - 411
+ 11. Bubble sort -412
  
  12. <h3>Codeforce: A beautiful matrix -263A</h3>
  13. <h3>Codeforce: Petya and string - </h3>
