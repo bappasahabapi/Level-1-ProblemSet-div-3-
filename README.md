@@ -58,11 +58,10 @@
  ### Problems For Examination-2
  
  ✅ Array retated problem set & solutions: https://docs.google.com/document/d/1JRYttO-7sTSy8tx6Xt5T5DtxCIgDCqSkAS5Q-6CVDqY/edit
-
+ 
+ 
+### 🔘 Folder name : 🔥 week-3
 **✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
- 
-### 🔘 Folder name : week-3
- 
  
 
 1. Simple array-601
@@ -74,9 +73,12 @@
 7. Find the 4th maximum element from an array-608
 8. <h3> Find the 2nd minimum element from an array-609</h3>
 9. <h3> Find the unique and duplicate from an array -610</h3>
-. Count the number of odd or even prestent in the array-605
+10. Count the number of odd or even prestent in the array-605
+11. Find out the missing number from array element-CSES -1083
 
-. Find out the missing number from array element-CSES -1083
- 
+
+### 🔘 Folder name : 🔥 week-4
+
+♻️ String and 2D array
 
 
