@@ -61,7 +61,7 @@
  
  
 ### 🔘 Folder name : 🔥 week-3
-**✔✔✔ 𝓐𝓻𝓻𝓪𝔂:**
+♻️ Array
  
 
 1. Simple array-601
@@ -80,5 +80,20 @@
 ### 🔘 Folder name : 🔥 week-4
 
 ♻️ String and 2D array
-
+ 
+ 1. Basic input output string -401
+ 2. Counting vowel and consonant from a string -402
+ 3. Small or Capital string -403
+ 4. Two dimentatonal array input output -404
+ 5. Two dimentational array i/o other way -405
+ 6. Checking diagonal or not primaray diagonal using matrix -406
+ 7. Checking secondary or not using matrix -407
+ 8. Checking scalar matrix or not -408
+ 9. Checking identity matrix or not -409
+ 
+ 12. <h3>Codeforce: A beautiful matrix -263A</h3>
+ 13. <h3>Codeforce: Petya and string - </h3>
+ 14. <h3>Codeforce: String task -118A</h3>
+ 15. <h3>Codeforce: Way to long words -71A</h3>
+ 16. <h3>Codeforce: Word Capitalization -281A</h3>
 
