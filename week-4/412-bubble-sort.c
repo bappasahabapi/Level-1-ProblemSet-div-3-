@@ -2,8 +2,8 @@
 int main()
 {
 
-    int n = 8, i, j;
-    int given_arr[8] = {12, 7, 9, 3, 15, 2, 6, 5};
+    int n = 11, i, j;
+    int given_arr[11] = {12, 7, 9, 1, 3, 73, 11, 15, 62,19, 4};
     // int sorted_arr[n];
 
     printf("Without sorting : ");
@@ -29,7 +29,7 @@ int main()
         }
 
         // --------------- Algorithm  logic end  here -------------- //
-        printf("After sorting : ");
+        printf("After sorting %d: ",j);
         for (i = 0; i < n; i++)
         {
             printf("%d ", given_arr[i]);

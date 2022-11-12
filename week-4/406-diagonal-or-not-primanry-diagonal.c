@@ -14,6 +14,7 @@ int main()
             scanf("%d",&a[i][j]);
         }
     }
+    // check squre or not
     if(row==col)
     {
 
