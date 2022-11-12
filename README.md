@@ -98,4 +98,10 @@
  14. <h3>Codeforce: String task -118A</h3>
  15. <h3>Codeforce: Way to long words -71A</h3>
  16. <h3>Codeforce: Word Capitalization -281A</h3>
+ 17.Magic matrix -413
+ 18.String reverse -414
+ 19. String reverse -415
+ 20.String concate -416
+ 21.String character to digit -418
+ 22.<h3>String Sorting usnig frequency array-417</h3>
 
