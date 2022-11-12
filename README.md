@@ -7,6 +7,8 @@
 2. (14-19): https://drive.google.com/file/d/19qiYTA5ejQOQI5wYBZrLNe7PDjso1pQY/view
 3. (20-25): https://docs.google.com/document/u/1/d/1RFLjO-nBodkEXXL12HQ27RfYlnPczybCdRWNGYw8aKI/mobilebasic?fbclid=IwAR2tu-XgBO-g5Zzf2kSiFlBDSkTr4UAo3kAK3-CA-35Dv-0nin11RJKuEYY
 4. https://docs.google.com/document/d/1rUfHiFWn2MrPrzG4pOuwmjtJZ1dllCs-FKT-Zf5IuEc/edit
+5. https://drive.google.com/file/d/1NrFWRtAhbUfqUJ5ehrBVC656k5WHynrl/view
+6. https://drive.google.com/file/d/1X-TdJp5hRyvR3iWGXPS8N2YfhUbwZ6FK/view
 
 ####   ♻Some practising ProblemSet link:
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
@@ -90,8 +92,8 @@
  7. Checking secondary or not using matrix -407
  8. Checking scalar matrix or not -409
  9. Checking identity matrix or not -410
- 10. Selecton sotrt - 411
- 11. Bubble sort -412
+ 10. 🐧 Selecton sotrt - 411
+ 11. 🐧 Bubble sort -412
  
  12. <h3>Codeforce: A beautiful matrix -263A</h3>
  13. <h3>Codeforce: Petya and string - </h3>
