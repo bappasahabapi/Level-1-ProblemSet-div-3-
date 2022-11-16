@@ -1,4 +1,7 @@
-``
+Hints: https://docs.google.com/document/d/1HJdKyAluK7cjYTuu9HaKn1Mxt2tsbE-hyIlzo5_QjvY/edit
+
+
+
 #   1.Missing Number
 
 #include <stdio.h>
@@ -250,6 +253,4 @@ int main() {
     return 0;
 }
 
-
-```
 
