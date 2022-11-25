@@ -5,5 +5,6 @@
   <p> 4. Check prime or not using functon -604</p>
   <p> 5. Facorial function -605</p>
   <b> 6.Permutation Combination using factorial function -606</b>
+  
   <b> 7.Magic Number using multiple conditon function-607</b>
   
