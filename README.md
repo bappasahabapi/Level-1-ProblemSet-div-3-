@@ -124,6 +124,9 @@
 
 <p> 4. Check prime or not using functon -604</p>
 <p> 5. Facorial function -605</p>
-<h3> 6.Permutation Combination using factorial function -606</h3>
+<h3>6.Permutation Combination using factorial function -606</h3>
 
-<h3> 7.Magic Number using multiple conditon function-607</h3>
+<h3>7.Magic Number using multiple conditon function-607</h3>
+<p> 8. Vowel Checking  function -608</p>
+<p> 9. Sum of Array function -609</p>
+<p> 10. GCM and LCN  function -610</p>
