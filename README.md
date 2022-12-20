@@ -130,3 +130,14 @@
 <p> 8. Vowel Checking  function -608</p>
 <p> 9. Sum of Array function -609</p>
 <p> 10. GCM and LCN  function -610</p>
+
+### 🔘 Folder name : 🔥 week-6-Functons and pointers
+
+<p> 1. Warning print function -700</p>
+<p> 2. N times test case function -701</p>
+<p> 3. Taking radius function -702</p>
+<p> 4. Factorial function -703</p>
+<p> 5.pointer memory address print -704</p>
+<p> 6. Pointers of pointers -705</p>
+<p> 7. Swap function using pointer -707</p>
+
