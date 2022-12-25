@@ -142,10 +142,12 @@
 <p> 7. Swap function using pointer -707</p>
 
 
+```diff
+
+ ```
 
 
 
-
-### Basic Data Structure C++ 
-🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+###🎄🎄🎄🎄🎄 Basic Data Structure C++ 
+🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
 ### 🔘 Folder name : 🔥 week-1-C++
