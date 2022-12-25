@@ -141,3 +141,11 @@
 <p> 6. Pointers of pointers -705</p>
 <p> 7. Swap function using pointer -707</p>
 
+
+
+
+
+
+### Basic Data Structure C++ 
+🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+### 🔘 Folder name : 🔥 week-1-C++
