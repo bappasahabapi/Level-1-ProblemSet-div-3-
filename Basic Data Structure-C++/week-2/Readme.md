@@ -11,11 +11,11 @@
         [] --> []
         [a] --> [a]
 
-#    Implementation:
+#   🎄 Implementation:
 
-**Divide part**
+🔘 **Divide part**
 
-`It takes a vector input and return a vector output`
+🔥 `It takes a vector input and return a vector output`
 
 ```cpp
         vector<int> merge_sort(vector<int>a){
@@ -23,7 +23,7 @@
         }
 ```
 
- `next define the base case inside the vector`   
+ 🔥 `next define the base case inside the vector`   
     if array size is **0 or 1** then return the array  
 
 ```cpp
@@ -35,7 +35,7 @@
         }
 ```  
 
-`otherwise we divide the array at the  midpoint `
+🔥 `otherwise we divide the array at the  midpoint `
 ```cpp
         vector<int> merge_sort(vector<int>a)
         {
@@ -47,7 +47,7 @@
         }
 ```  
 
-` divide the vector into two parts`
+🔥 ` divide the vector into two parts`
 
 ```cpp
         vector<int> merge_sort(vector<int>a)
@@ -64,7 +64,7 @@
         }
 ``` 
 
-` Divide the vector into two parts vector b and c where a=b+c`
+🔥 ` Divide the vector into two parts vector b and c where a=b+c`
 
 ```cpp
         vector<int> merge_sort(vector<int>a)
@@ -79,7 +79,7 @@
             vector<int>c;
         }
 ``` 
-**Divide the array into two parts if even then size of b = size of c otherwise** 
+🔥 **Divide the array into two parts if even then size of b = size of c otherwise** 
 
 `vector b starts with 0 to mid and vector c element start mid to i<a.size() `
 <!-- `Next we have to make a loop which iterate 0 to mid-1 ` -->
@@ -106,7 +106,7 @@
         }
 ``` 
 
-`Next we call the two child array b and c`
+🔥 `Next we call the two child array b and c`
 
      here a get the sorted b elements
     and a also get the sorted c elements
@@ -139,7 +139,7 @@
 ``` 
 **Conquer part**
 
-`Store the two sorted array into vector a `
+🔥 `Store the two sorted array into vector a `
 
 ```cpp
         vector<int> merge_sort(vector<int>a)
@@ -171,7 +171,7 @@
         }
 ``` 
 
-` Next we take two index and both are pointed in index 0`
+🔥 ` Next we take two index and both are pointed in index 0`
 
 ```cpp
         vector<int> merge_sort(vector<int>a)
@@ -207,7 +207,7 @@
         }
 ```
 
-`next the loop will run the vector size of a ;`
+🔥 `next the loop will run the vector size of a ;`
 ```cpp
         vector<int> merge_sort(vector<int>a)
         {
@@ -257,11 +257,11 @@
         }
 ```
 
-`Next check the corner case `
+🔥 `Next check the corner case `
 That means we the index is reach the last element then we store the other array element .
 
 
-`next the loop will run the vector size of a ;`
+🔥 `next the loop will run the vector size of a ;`
 ```cpp
         vector<int> merge_sort(vector<int>a)
         {
