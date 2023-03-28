@@ -1,3 +1,8 @@
+ ![Github Banner](bappa.png) 
+### 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
+
+
+
 ####   🟩Article Notes Link:
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
 
@@ -16,6 +21,8 @@
 
 ##  👇 Exerice problems:
 ### Problems For Examination-1
+
+`this codes are inside:` **01-Basic Mathematical Problems solved in C/Basic codes/**
 
  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
 1. hellow word program-01
@@ -150,4 +157,53 @@
 
 ###🎄🎄🎄🎄🎄 Basic Data Structure C++ 
 🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
-### 🔘 Folder name : 🔥 week-1-C++
+### 🔘 Folder name :
+
+###    `🔘🔥 week-2-C++`
+
+2001-arrayOfSum
+
+2002-stringOperation
+###    `🔘🔥 week-2-C++`
+
+###    `🔘🔥 week-3-C++`
+
+01-Merge-sort.cpp
+
+02-Merge-srot.js
+
+03-merge-sort-of-two-array
+
+04-simple-merge
+
+05-solved-5
+
+10-Quick-sort
+
+11-Quick-sort-takes-user-input
+
+12-Quick-sort-non-increaseing-order
+
+
+`🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 🔥`
+
+01-structure-of-linked-list.cpp
+
+02-insert-in-head-linked-list.cpp
+
+03-traverse-linked-list.cpp
+
+04-searching-in-linked-list.cpp
+
+05-searching-all-possible-occurrence-linked-list.cpp
+
+
+###    `🔘🔥 week-4-C++`
+
+`🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 🔥`
+
+06-linkedList-length.cpp
+
+07-orderOf-1-length.cpp
+
+08-insert-at-any-index.cpp
