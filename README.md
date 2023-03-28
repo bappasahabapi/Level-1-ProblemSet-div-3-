@@ -207,3 +207,7 @@
 07-orderOf-1-length.cpp
 
 08-insert-at-any-index.cpp
+
+09-delete-at-head.cpp
+
+10-delete-at-any-node.cpp
