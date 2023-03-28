@@ -2,6 +2,16 @@
 ### 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
 
 
+##    🎧 Folder Structure:
+
+    📂00-Algorithm
+        
+        📁01-Bubble-Sort-Related-Problems-And-Solved
+        📁02-Merge-Sort-Related-Problems-And-Solved
+        📁03-Quick-Sort-Related-Problems-And-Solved
+        📁04-Linked-List
+
+
 
 ####   🟩Article Notes Link:
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
