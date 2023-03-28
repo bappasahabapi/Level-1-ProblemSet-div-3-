@@ -4,7 +4,7 @@
 
 ##    🎧 Folder Structure:
 
-    📂00-Algorithm
+    📂𝟎𝟎-𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
         
         📁01-Bubble-Sort-Related-Problems-And-Solved
         📁02-Merge-Sort-Related-Problems-And-Solved
