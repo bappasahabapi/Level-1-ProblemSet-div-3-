@@ -221,3 +221,7 @@
 09-delete-at-head.cpp
 
 10-delete-at-any-node.cpp
+
+11-insert-after-a-value.cpp
+
+12-reverse-print.cpp
