@@ -181,10 +181,8 @@ public:
         a->next =b->next;
         delete b;
      }
-        
-
+        // TODO: Insert value after specific value
         // here value =10, data =100 that means insert 100 after 10
-        //  Insert value after specific value
      void InsertAfterValue(int value, int data)
      {
             node *a =head;
@@ -207,45 +205,25 @@ public:
             a->next =new_node;
      }
 
-     //TODO: print the reverse order from node a to last
-
-     void ReversePrint2(node *a)
-     {
-        if (a==NULL)
-        {
-            return;
-        }
-        ReversePrint2(a->next);
-        cout<<a->data<<" ";
-     }
-
-     void ReversePrint()
-     {
-        ReversePrint2(head);
-        cout<<"\n";
-     }
-
    
 
 };
 
 int main()
 {
+    cout<<"Traverse the LinkedList"<<endl;
+
     LinkedList l;
     l.InsertAtHead(30);
     l.InsertAtHead(10);
     l.InsertAtHead(5);
-    l.InsertAtHead(1);
 
     l.Traverse();
 
-    cout<<"Reverse Print the list: ";
-    l.ReversePrint();
+    l.InsertAfterValue(10,100);
+    l.Traverse();
 
-    // l.InsertAfterValue(10,100);
-    // l.Traverse();
-
-    // cout<<"Size of the Linked List = "<<l.getSize()<<endl;
+    cout<<"Size of the Linked List = "<<l.getSize()<<endl;
    
 
     // l.InsertAtAnyIndex(1,100);
