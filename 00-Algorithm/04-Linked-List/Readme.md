@@ -47,7 +47,7 @@ Real Example: *Browser navigation*
         2. node (data)
         3. next pointer
         
-**1.Structure of Doubley Linked list:**
+**1.Structure of Doubly Linked list:**
    
          
         {[pre_pointer ][data][next_pointer_node]}
