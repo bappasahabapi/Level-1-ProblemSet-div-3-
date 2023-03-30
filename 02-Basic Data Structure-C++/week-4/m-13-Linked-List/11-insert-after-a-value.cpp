@@ -6,7 +6,8 @@ logic:
  */
 
 
-#include<bits/stdc++.h>
+// #include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 // First making the node structure

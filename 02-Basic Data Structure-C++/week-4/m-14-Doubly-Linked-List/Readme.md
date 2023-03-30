@@ -25,6 +25,7 @@
     10-delete-at-any-node.cpp
 
 **🎧 m-13-Linked-list:**
+
     
     11-insert-after-a-value.cpp
     12-reverse-print.cpp
@@ -43,6 +44,11 @@
     2. print reverse order recursively
 
 #   🅑Doubly Linked List:
+
+    1.Structure
+    2.Insertion
+    3.Deletion 
+    4.Reverse 
     
     --> Here we can track our previous memory
         That means backtracking/backward movement is possible
@@ -77,63 +83,4 @@ Real Example: *Browser navigation*
     index:      0                1                2
 
 **3.Doubly linked list Deletion:**
-
-#    Questions:
-
-#####    🎧Note: All questions are about singly linked-lists here.
-
-**1.Write the singly linked list class and a function to add a new element to the front of a singly linked list. Also write a function to print all the elements of the linked-list.**
-
-`Sample Input:` [1, 2, 3, 4, 5], new element: 0
-
-`Sample Output:` Singly linked list containing the elements [0, 1, 2, 3, 4, 5]
-
-`Solved:see code of`    
-
-              02-insert-in-head-linked-list.cpp
-              03-traverse-linked-list.cpp
-
-**2.Write a function to remove the first element of a singly linked list.**
-
-`Sample Input:` [1, 2, 3, 4, 5]
-
-`Sample Output:` Singly linked list containing the elements [2, 3, 4, 5]
-
-`Solved:see code of`    
-
-              09-delete-at-head.cpp
-
-**3. Write a function to remove the last element of a singly linked list.**
-`Sample Input:` [1, 2, 3, 4, 5]
-
-`Sample Output:` Singly linked list containing the elements [1, 2, 3, 4]
-
-`Solved:see code of`    
-
-             10-delete-at-any-node.cpp
-
-**4.Write a function to find the i-th index of a singly linked list.**
-
-`Sample Input:` [1, 2, 3, 4, 5], i = 2
-
-`Sample Output:` 3
-
-**5.Write a function to add a new element to the back of a singly linked list.**
-
-`Sample Input:` [1, 2, 3, 4, 5], new element: 0
-
-`Sample Output:` Singly linked list containing the elements [1, 2, 3, 4, 5, 0]
-
-**6.Write a function to check if a singly linked list contains a given element.**
-
-`Sample Input:` [1, 2, 3, 4, 5], element: 3
-
-`Sample Output:` True
-
-**7.Write a function to sort a singly linked list in ascending order?**
-`Sample Input:` [4, 2, 5, 1, 3]
-
-`Sample Output:` Singly linked list containing the elements [1, 2, 3, 4, 5]
-
-`Hint:` Look at the insertion sort code that we implemented in the array. Try to write the code in linked-list.
 
