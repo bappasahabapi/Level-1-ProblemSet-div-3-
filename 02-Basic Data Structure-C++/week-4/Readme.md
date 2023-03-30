@@ -80,16 +80,29 @@ Real Example: *Browser navigation*
 
 `Sample Output:` Singly linked list containing the elements [0, 1, 2, 3, 4, 5]
 
+`Solved:see code of`    
+
+              02-insert-in-head-linked-list.cpp
+              03-traverse-linked-list.cpp
+
 **2.Write a function to remove the first element of a singly linked list.**
 
 `Sample Input:` [1, 2, 3, 4, 5]
 
 `Sample Output:` Singly linked list containing the elements [2, 3, 4, 5]
 
+`Solved:see code of`    
+
+              09-delete-at-head.cpp
+
 **3. Write a function to remove the last element of a singly linked list.**
 `Sample Input:` [1, 2, 3, 4, 5]
 
 `Sample Output:` Singly linked list containing the elements [1, 2, 3, 4]
+
+`Solved:see code of`    
+
+             10-delete-at-any-node.cpp
 
 **4.Write a function to find the i-th index of a singly linked list.**
 
