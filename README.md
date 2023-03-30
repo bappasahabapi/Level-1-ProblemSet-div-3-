@@ -225,3 +225,14 @@
 11-insert-after-a-value.cpp
 
 12-reverse-print.cpp
+
+14-structure.cpp
+
+15-insertion-at-head.cpp
+
+16-insertion-at-any-index.cpp
+
+17-deletion.cpp
+
+18-reverse.cpp
+
