@@ -29,12 +29,25 @@
     11-insert-after-a-value.cpp
     12-reverse-print.cpp
 
+**🎧 m-14-Doubly-Linked-list:**
+    
+    14-structure.cpp
+    15-insertion-at-head.cpp
+    16-insertion-at-any-index.cpp
+    17-deletion.cpp
+    18-reverse.cpp
+
 ###   Basic Operations(singly linked list):
 
     1. Insert after a specific value
     2. print reverse order recursively
 
 #   🅑Doubly Linked List:
+    
+    1.Structure
+    2.Insertion
+    3.Deletion 
+    4.Reverse 
     
     --> Here we can track our previous memory
         That means backtracking/backward movement is possible
@@ -115,4 +128,62 @@ Real Example: *Browser navigation*
 `Sample Output:` Singly linked list containing the elements [1, 2, 3, 4, 5]
 
 `Hint:` Look at the insertion sort code that we implemented in the array. Try to write the code in linked-list.
+
+#####    🎧Note: All questions are about doubly linked-lists here.
+
+
+**1.Write the doubly linked list class and a function to add a new element to the front of a doubly linked list. Also write a function to print all the elements of the linked-list.**
+
+`Sample Input:` [1, 2, 3, 4, 5], new element: 0
+
+`Sample Output:` Doubly linked list containing the elements [0, 1, 2, 3, 4, 5]
+
+**2.Write a function to remove the last element of a Doubly linked list.**
+
+`Sample Input:` [1, 2, 3, 4, 5]
+
+`Sample Output:` Doubly linked list containing the elements [1, 2, 3, 4]
+
+**3.Write a function to find the i-th index of a doubly linked list.**
+
+`Sample Input:` [1, 2, 3, 4, 5], i = 2
+`Sample Output:` 3
+
+**Write a function to check if a doubly linked list contains a given element.**
+
+`Sample Input:` [1, 2, 3, 4, 5], element: 3
+
+`Sample Output:` True
+
+**Write a function to reverse a doubly linked list?**
+
+`Sample Input:` [1, 2, 3, 4, 5]
+
+`Sample Output:` Doubly linked list containing the elements [5, 4, 3, 2, 1]
+
+**Write a function to insert an element at a specific index in a doubly linked list.**
+
+`Sample Input: `[1, 2, 3, 4, 5], index: 1, element: 0
+
+`Sample Output:` Doubly linked list containing the elements [1, 0, 2, 3, 4, 5]
+
+**How would you delete a specific element from a doubly linked list?**
+
+`Sample Input:` [1, 2, 6, 4, 5], element: 6
+
+`Sample Output:` Doubly linked list containing the elements [1, 2, 4, 5]
+
+**Write a function to check if a doubly linked list is a palindrome.**
+
+`Sample Input:` [1, 2, 3, 2, 1]
+`Sample Output:` True
+
+
+`Sample Input:` [1, 2, 3, 3, 1]
+`Sample Output:` False
+
+In the context of a doubly linked list, a palindrome is a list where the elements, when read from the first element to the last and then from the last element to the first, are the same.
+
+ An example of a doubly linked list palindrome is [1, 2, 3, 2, 1], when read from the first element to the last it is [1, 2, 3, 2, 1] and when read from the last element to the first it is [1, 2, 3, 2, 1] as well. In this sense, a doubly linked list is a palindrome if the element at the first node is equal to the element at the last node, the element at the second node is equal to the element at the second to last node, and so on.
+
 
