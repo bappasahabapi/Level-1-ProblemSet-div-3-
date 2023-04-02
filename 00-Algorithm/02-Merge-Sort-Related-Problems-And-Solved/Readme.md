@@ -6,7 +6,7 @@
      01.First handle the base case;
      02. we have a loop which continues 0 to mid-1;
      03. Next divide the vector into two parts: vector b and vector c;
-     04. Next we have sorted vector(means divide steps);
+     04. Next we have sorted vector(means divide steps); which is in O(n)
      05. Next the conquer steps
     
 #    Best Case :
