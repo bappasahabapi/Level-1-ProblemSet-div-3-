@@ -1,6 +1,21 @@
  ![Github Banner](bappa.png) 
 ### 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
 
+
+ ###    🚴‍♂️ Target -01
+
+-  ✅ [Math For Programming ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/01-Basic%20Mathematical%20Problems%20solved%20in%20C)
+-  ✅ Introduction to Programming Language
+-  ✅ [Basic Data Structures and Problem Solving Part-II](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/Basic-Data-Structure-C%2B%2B/01-Basic%20Mathematical%20Problems%20solved%20in%20C)
+
+ ###    🚴‍♂️ Target -02
+
+-  ✅ Introduction to Algorithms & Problem Solving Part - III [Due-to-week-6-M-22]
+-  ✅ OOP and Python Programming [Due]
+
+
+
+
 ##    🎧 Folder Structure:
 [📂𝟎𝟎-𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm)
 
@@ -14,7 +29,7 @@
 
 
 
-####   🟩Article Notes Link:
+<!-- ####   🟩Article Notes Link:
 1. https://docs.google.com/document/d/1u8d4XLfxk5W4ACiBgVkqC1momYHdHRZgrou1N6Sgz0A/edit
 
 
@@ -27,13 +42,14 @@
 6. https://drive.google.com/file/d/1X-TdJp5hRyvR3iWGXPS8N2YfhUbwZ6FK/view
 
 ####   ♻Some practising ProblemSet link:
-1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php
+1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php -->
 
 
 ##  👇 Exerice problems:
 ### Problems For Examination-1
 
-`this codes are inside:` **01-Basic Mathematical Problems solved in C/Basic codes/**
+`this codes are inside:` 
+- **01-Basic Mathematical Problems solved in C/Basic codes/**
 
  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
 1. hellow word program-01
