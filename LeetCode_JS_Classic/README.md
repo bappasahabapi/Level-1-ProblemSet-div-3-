@@ -29,4 +29,4 @@ Type this command in the terminal
 ## String Questions:
 
 - [LC125-Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
-    - [solve]()
+    - [solve](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/LeetCode_JS_Classic/exercises/LC125_isPalindrome)
