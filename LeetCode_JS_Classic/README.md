@@ -30,3 +30,5 @@ Type this command in the terminal
 
 - [LC125-Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
     - [solve](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/LeetCode_JS_Classic/exercises/LC125_isPalindrome)
+- [LC5-Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/description/)
+    - [solve](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/blob/main/LeetCode_JS_Classic/exercises/LC5_longestPalindrome/Readme.md)
