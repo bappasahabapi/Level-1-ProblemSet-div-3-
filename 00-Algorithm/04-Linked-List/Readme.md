@@ -1,3 +1,11 @@
+`LinkedList:` **[Solve this 4 problms for leetcode interview]**
+
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+
 #   🅐 Singly Linked List:
     
     we have two part 
