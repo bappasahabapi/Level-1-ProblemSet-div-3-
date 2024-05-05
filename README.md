@@ -16,7 +16,7 @@
 - 6. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
 
-`Array:`
+`Array:` **[Solve this 10 problms]**
 
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
@@ -28,6 +28,14 @@
 - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+`LinkedList:` **[Solve this 4 problms]**
+
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
 
  ###    🚴‍♂️ Target -01
 
