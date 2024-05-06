@@ -45,11 +45,12 @@
 -  ✅ [Introduction to Programming Language](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/01-Introduction%20to%20Programming%20Language)
 -  ✅ [Basic Data Structures and Problem Solving Part-II](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B)
 
-    - 📁 [02-Basic Data Structure-C++]()
-        - ♻️ [week-1-[C++_Introduction]]()
-        - ♻️ [week-4-[Linked_List]]()
-        - ♻️ [week-5-[Time_Complexity_&&_Recursioin]]()
-        - ♻️ [week-6-[Stack_&&_Queue]]()
+    - 📁 [02-Basic Data Structure-C++](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B)
+        - ♻️ [week-1-[C++_Introduction]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-1-%5BC%2B%2B_Introduction%5D/m-02-(Array-String-Function-Pointer)%20)
+        - ♻️ [week-3-[Linked_List__&&__Merge-Sort]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-3)
+        - ♻️ [week-4-[Linked_List]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-4-%5BLinked_List%5D)
+        - ♻️ [week-5-[Time_Complexity_&&_Recursioin]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-5)
+        - ♻️ [week-6-[Stack_&&_Queue]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D)
 
  #   🚴‍♂️ Target -02
 
