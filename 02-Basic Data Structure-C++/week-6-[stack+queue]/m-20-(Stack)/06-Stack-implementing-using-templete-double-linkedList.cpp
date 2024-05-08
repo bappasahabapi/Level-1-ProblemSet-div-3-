@@ -1,19 +1,26 @@
+// Template Based implementation 
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
 
+template <class T> // T = int/float/double/ anything
 class node
 {
 public:
-    int data;
+    T data;
     node * nxt;
     node * prv;
 };
 
+
+template <class T>
 class DoublyLinkedList
 {
 public:
-    node *head;
+    node<T> *head;
     int sz;
     DoublyLinkedList()
     {
@@ -22,9 +29,9 @@ public:
     }
 
     //Creates a new node with the given data and returns it O(1)
-    node * CreateNewNode(int data)
+    node<T> * CreateNewNode(int data)
     {
-        node *newnode = new node;
+        node *newnode = new node<T>;
         newnode->data = data;
         newnode->nxt = NULL;
         newnode->prv = NULL;
@@ -32,10 +39,10 @@ public:
     }
 
     //Inserts a node with given data at head O(1)
-    void InsertAtHead(int data)
+    void InsertAtHead(T data)
     {
         sz++;
-        node *newnode = CreateNewNode(data);
+        node<T> *newnode = CreateNewNode(data);
         if(head == NULL)
         {
             head = newnode;
@@ -48,7 +55,7 @@ public:
     }
 
     //Inserts the given data at the given index O(n)
-    void Insert(int index, int data)
+    void Insert(int index, T data)
     {
         if(index > sz)
         {
@@ -75,6 +82,7 @@ public:
         a->nxt = newnode;
         sz++;
     }
+    
     //Deletes the value at head. O(1)
     void DeleteAtHead()
     {
@@ -82,8 +90,8 @@ public:
         {
             return;
         }
-        node *a = head;
-        node *b = head->nxt;
+        node<T> *a = head;
+        node<T> *b = head->nxt;
         delete a;
         if(b!= NULL)
         {
@@ -92,38 +100,39 @@ public:
         head= b;
         sz--;
     }
-    //Deletes the given index O(n)
-    void Delete(int index)
-    {
-        if(index >= sz)
-        {
-            cout<<index<<" doesn't exist.\n";
-            return;
-        }
-        node *a = head;
-        int cur_index = 0;
-        while(cur_index != index)
-        {
-            a = a->nxt;
-            cur_index++;
-        }
-        node *b = a->prv;
-        node *c = a->nxt;
-        if(b!=NULL)
-        {
-            b->nxt = c;
-        }
-        if(c!= NULL)
-        {
-            c->prv = b;
-        }
-        delete a;
-        if(index==0)
-        {
-            head = c;
-        }
-        sz--;
-    }
+    
+    //todo:not used for this  Deletes the given index O(n)
+    // void Delete(int index)
+    // {
+    //     if(index >= sz)
+    //     {
+    //         cout<<index<<" doesn't exist.\n";
+    //         return;
+    //     }
+    //     node *a = head;
+    //     int cur_index = 0;
+    //     while(cur_index != index)
+    //     {
+    //         a = a->nxt;
+    //         cur_index++;
+    //     }
+    //     node *b = a->prv;
+    //     node *c = a->nxt;
+    //     if(b!=NULL)
+    //     {
+    //         b->nxt = c;
+    //     }
+    //     if(c!= NULL)
+    //     {
+    //         c->prv = b;
+    //     }
+    //     delete a;
+    //     if(index==0)
+    //     {
+    //         head = c;
+    //     }
+    //     sz--;
+    // }
 
     //Prints the linked list O(n)
     void Traverse()
@@ -144,29 +153,29 @@ public:
     }
 
     //Reverse the doubly linked list O(n)
-    void Reverse()
-    {
-        if(head==NULL)
-        {
-            return;
-        }
-        node *a = head;
-        int cur_index = 0;
-        while(cur_index != sz-1)
-        {
-            a = a->nxt;
-            cur_index++;
-        }
-        // last index is in a
+    // void Reverse()
+    // {
+    //     if(head==NULL)
+    //     {
+    //         return;
+    //     }
+    //     node *a = head;
+    //     int cur_index = 0;
+    //     while(cur_index != sz-1)
+    //     {
+    //         a = a->nxt;
+    //         cur_index++;
+    //     }
+    //     // last index is in a
 
-        node *b = head;
-        while(b!= NULL)
-        {
-            swap(b->nxt, b->prv);
-            b = b->prv;
-        }
-        head = a;
-    }
+    //     node *b = head;
+    //     while(b!= NULL)
+    //     {
+    //         swap(b->nxt, b->prv);
+    //         b = b->prv;
+    //     }
+    //     head = a;
+    // }
 };
 
 //Stack using doubly linked list

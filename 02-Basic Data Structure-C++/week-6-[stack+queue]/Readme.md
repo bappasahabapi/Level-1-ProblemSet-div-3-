@@ -15,7 +15,7 @@
   - S_00-stack-structure.cpp
   - S_01-stack-push.cpp
   - S_02-stack-pop.cpp
-- <b>[📁 m-21-(Templete-Based-Implemtation-stack)]() </b>
+- <b>[📁 m-22-(Templete-Based-Implemtation-stack)]() </b>
 ---
 
 - We can only insert(push) or delete(pop) from the top part . Thats means it has only haed which is on the top.
