@@ -1,7 +1,9 @@
  ![Github Banner](bappa.png) 
 ### 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
 
-### Leetcode:
+### LeetCode:
+
+[Solve The Code ](../Crack_Interview.pdf)
 
 ## Problem set LeetCode [Interview]
 
@@ -14,7 +16,7 @@
 
 - 4. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - 5. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
-- 6. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- 6. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [stack-easy]
 
 
 `Array:` **[Solve this 10 problms]**
