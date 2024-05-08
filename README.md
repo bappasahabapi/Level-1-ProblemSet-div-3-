@@ -3,7 +3,7 @@
 
 ### LeetCode:
 
-[Solve The Code ](../Crack_Interview.pdf)
+[Solve The Code ](Crack_Interview.pdf)
 
 ## Problem set LeetCode [Interview]
 
