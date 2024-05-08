@@ -8,7 +8,8 @@
 ` String:`
 
 - 1. [ 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
--    2. [5. Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/description/)
+    - [Solved Code ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/LeetCode_JS_Classic/exercises/LC125_isPalindrome)
+- 2. [5. Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - 3. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) 
 
 - 4. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
