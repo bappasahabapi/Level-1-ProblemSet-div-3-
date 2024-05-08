@@ -29,6 +29,7 @@ public:
         size=0;
     };
 
+    //todo: Method-1 [Insert at head]
     // Insert a node with the value in the head
     void insertAtHead(int value){
         Node *newNode =new Node(value); 
@@ -47,6 +48,7 @@ public:
         
     };  
 
+    //todo: Method-2 [Insert at head]
     //Alternative way Insert a node with the value in the head
     void prepend(int value) {
         Node* newNode = new Node(value);
@@ -62,7 +64,8 @@ public:
         size++;
     }   
     
-    // insert node  at the end 
+    //todo: [insert at tail]
+    // insert node  at the end  
     void append(int value) {
             Node* newNode = new Node(value);
             if (size == 0) {
