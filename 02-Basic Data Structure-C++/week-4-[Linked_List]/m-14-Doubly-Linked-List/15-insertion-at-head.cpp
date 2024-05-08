@@ -7,6 +7,12 @@ public:
     int data;
     node *next;
     node *previous;
+
+    node(int value){
+        this->data=value;
+        this->next=nullptr;
+        this->previous=nullptr;
+    }
 };
 
 class DoublyLinkedList{
@@ -20,26 +26,27 @@ public:
     }
 
     //todo: Creates a new node with the given data and returns a node pointer;
-    node *CreateNewNode(int data)
-    {
-        node *new_node =new node;
-        new_node->data=data;
-        new_node->next=NULL;
-        new_node->next=NULL;
-        return new_node;
+    // node *CreateNewNode(int data)
+    // {
+    //     node *new_node =new node;
+    //     new_node->data=data;
+    //     new_node->next=NULL;
+    //     new_node->next=NULL;
+    //     return new_node;
 
-    }
-    //todo: inserta  a node with given data at head
+    // }
+    //todo: insert  a node with given data at head
     void InsertAtHead(int data)
 {
         size++;
-        node *new_node =CreateNewNode(data);
+        node *new_node = new node(data);
+        // node *new_node =CreateNewNode(data);
         if(head ==NULL)
         {
             head =new_node;
             return;
         }
-        node *a =head;
+        node *a =head;  // this is temporary variable a 
         new_node->next=a;
         a->previous=new_node;
         head=new_node;

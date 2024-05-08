@@ -18,7 +18,7 @@ public:
 // Stack class
 class Stack
 {
-private:
+public:
     // Member variables
     Node *top;
     int height;
