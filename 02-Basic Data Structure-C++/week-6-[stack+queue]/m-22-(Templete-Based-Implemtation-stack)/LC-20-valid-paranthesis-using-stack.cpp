@@ -18,6 +18,9 @@ Case:
             or simply invalid
  */
 
+// solution: when we have opening bracket push it 
+//           When we have closing bracket we just compare this to the top
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
