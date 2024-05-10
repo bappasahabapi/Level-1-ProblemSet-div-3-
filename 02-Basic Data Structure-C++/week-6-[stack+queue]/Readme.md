@@ -1,8 +1,11 @@
-# Stack: [ LIFO ]
+# Stack: [ LIFO ] & Queue: [FIFO]
+<hr>
+<hr>
 
-<h6>🇧🇩 Code:</h6>
 
-- <b>[📁 m-20-(Stack)](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D) </b>
+<h6>🇧🇩 Code:[Stack+Queue] </h6>
+
+- <b>[📁 m-20-(Stack)](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D) </b> https://visualgo.net/en/list
 
   - 01-Stack-implementing-using-static-array.cpp
   - 02-Stack-implementing-dynamic-array.cpp
@@ -15,8 +18,27 @@
   - S_00-stack-structure.cpp
   - S_01-stack-push.cpp
   - S_02-stack-pop.cpp
-- <b>[📁 m-22-(Templete-Based-Implemtation-stack)]() </b>
+  
 ---
+- <b>[📁 m-22-(Templete-Based-Implemtation-stack)](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D/m-22-(Templete-Based-Implemtation-stack)) </b>
+    
+     - List01.cpp
+     - List02-reverse-linkedList.cpp
+     - [LC-20-valid-parenthesis-using-stack.cpp](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/blob/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D/m-22-(Templete-Based-Implemtation-stack)/LC-20-valid-paranthesis-using-stack.cpp)
+--- 
+
+- <b>[📁 m-24-(Queue)](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D/m-24-(Queue)) </b> https://visualgo.net/en/list
+
+    - 00-Queue-Structure.cpp
+    - 01-Queue-Structure1.cpp `[including enqueue adn dequeues]`
+    - 02-Queue-Template.cpp
+    -
+
+
+
+
+---
+# Stack: [ LIFO ]
 
 - We can only insert(push) or delete(pop) from the top part . Thats means it has only haed which is on the top.
 - That means we can add or remove element at the **same end** means top.
