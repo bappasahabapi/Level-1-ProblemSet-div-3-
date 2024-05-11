@@ -261,24 +261,25 @@
  
  ✅ Array retated problem set & solutions: https://docs.google.com/document/d/1JRYttO-7sTSy8tx6Xt5T5DtxCIgDCqSkAS5Q-6CVDqY/edit
  
- 
 
+</br>
+ 
 <details>
 <summary><b>🔘 Folder name : 🔥 week-3 ♻️ Array [ ] </b></summary>
 
 ♻️ Array
- 
-    1. Simple array-601
-    2. How to take basic input and output of an array-602
-    3. How to take n th element input of an array-603
-    4. Find the max and min element of an array-604
-    5. <h3>Find the 2nd maximum element from an array-606</h3>
-    6. Find the 3rd maximum element from an array-607
-    7. Find the 4th maximum element from an array-608
-    8. <h3> Find the 2nd minimum element from an array-609</h3>
-    9. <h3> Find the unique and duplicate from an array -610</h3>
-    10. Count the number of odd or even prestent in the array-605
-    11. Find out the missing number from array element-CSES -1083
+
+1. Simple array-601
+2. How to take basic input and output of an array-602
+3. How to take n th element input of an array-603
+4. Find the max and min element of an array-604
+5. <h3>Find the 2nd maximum element from an array-606</h3>
+6. Find the 3rd maximum element from an array-607
+7. Find the 4th maximum element from an array-608
+8. <h3> Find the 2nd minimum element from an array-609</h3>
+9. <h3> Find the unique and duplicate from an array -610</h3>
+10. Count the number of odd or even prestent in the array-605
+11. Find out the missing number from array element-CSES -1083
 </details>
 <br>
 
