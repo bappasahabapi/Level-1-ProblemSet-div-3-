@@ -7,7 +7,7 @@
 
 */
 
-
+// 1st way
 class node{
 public:
 
@@ -21,14 +21,24 @@ public:
         right=nullptr;
     }
 };
-
 //todo: to crate a new node from the class node 
 // node* newNode =new node(value)
+class node1{
+public:
 
-    //todo: create node function that makes new node
-   /*  void createNode(int value){
-        node* newNode = new node(value);
+    int data;
+    node1* left;
+    node1* right;
+};
+
+    //todo: create node1 function that makes new node
+   /*  node1* createNode(int value){
+        node1* newNode = new node();
         newNode->data=value;
+        newNode->left=nullptr;
+        newNode->right=nullptr;
+
+        return newNode;
     }
  */
 
