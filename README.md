@@ -5,12 +5,18 @@
 
 [Solve The Code ](Crack_Interview.pdf)
 
+
+
+
 ## Problem set LeetCode [Interview]
 
-` String:`
+<h4>👔 LeetCode Interview:</h4>
+<br/>
+<details>
+<summary> <b>🥇 String Related Problems</b></summary>
 
 - 1. [ 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
-    - [Solved Code ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/LeetCode_JS_Classic/exercises/LC125_isPalindrome)
+        - [Solved Code ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/LeetCode_JS_Classic/exercises/LC125_isPalindrome)
 - 2. [5. Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - 3. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) 
 
@@ -18,8 +24,12 @@
 - 5. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - 6. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) [stack-easy]
 
+</details>
 
-`Array:` **[Solve this 10 problms]**
+<br/>
+<details>
+<summary> <b>🥇 Array: [Solve this 10 problems]</b></summary>
+
 
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
@@ -32,7 +42,12 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
-`LinkedList:` **[Solve this 4 problms]**
+</details>
+</br>
+
+<details>
+<summary> <b>🥇 LinkedList: [Solve this 4 problems]</b></summary>
+
 
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
@@ -40,9 +55,19 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 
+</details>
+</br>
 
+<hr>
+<hr>
 
- #    🚴‍♂️ Target -01
+</br>
+
+#    🚴‍♂️ Target -01
+
+<details>
+
+<summary> <b>©️ Math with C, 🔒 Intro to C++,  🔢 Data Structure -II</b></summary>
 
 -  ✅ [Math For Programming ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/01-Basic%20Mathematical%20Problems%20solved%20in%20C)
 -  ✅ [Introduction to Programming Language](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/01-Introduction%20to%20Programming%20Language)
@@ -58,24 +83,37 @@
         - ♻️ [week-6-[Stack_&&_Queue]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D)
 
             - **https://visualgo.net/en/list**
+
+</details>
+
             
  #   🚴‍♂️ Target -02
 
+<details>
+<summary> <b>🔢 Algorithm -III , 🐍 OOP and Python Programming  </b></summary>
+
 -  ✅ Introduction to Algorithms & Problem Solving Part - III [Due-to-week-6-M-22]
 -  ✅ OOP and Python Programming [Due]
+</details>
 
 
 
 
-##    🎧 Folder Structure:
+
+
+#    🎧 Folder Structure:
+<br/>
+<details>
+<summary> <b>  🎧 Sorting + Algorithm Structure:  </b></summary>
+
 [📂𝟎𝟎-𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 ](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm)
-
 
         
 -    📁 [01-Bubble-Sort-Related-Problems-And-Solved](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm/01-Bubble-Sort-Related-Problems-And-Solved)
 -    📁 [02-Merge-Sort-Related-Problems-And-Solved](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm/02-Merge-Sort-Related-Problems-And-Solved)
 -    📁 [03-Quick-Sort-Related-Problems-And-Solved]()
 -    📁 [04-Linked-List](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm/04-Linked-List)
+</details>
 
 
 
@@ -95,26 +133,27 @@
 ####   ♻Some practising ProblemSet link:
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php -->
 
+ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 
+#  👇 Exercise problems:
 
-##  👇 Exerice problems:
-### Problems For Examination-1
+### 📚 Problems For Examination-1
 
-`this codes are inside:` 
-- **01-Basic Mathematical Problems solved in C/Basic codes/**
+<details>
 
- 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
-1. hellow word program-01
+<summary><b>01-Basic Mathematical Problems solved in C/Basic codes/</b></summary>
+
+1. hello word program-01
 2. Even odd program-08
 3. Find the large number-09
 4. Find the larfe number and quality-10
 5. Weight two even problem-11
-6. <b>Weight two even and equal problem-12("watermilon codeforce")</b>
+6. <b>Weight two even and equal problem-12("watermelon codeforce")</b>
 7. Addition and Subtraction based on even or odd input-13
 8. Sum problems-200S
 9. Type Casting-201
-10. Sum double floting point number-202
+10. Sum double floating point number-202
 11. Character data types-203
-12. Arithemetic Operations-204
+12. Arithmetic Operations-204
 13. How can we take input from character-205
 14. Tell the positive NegativEe Number-206
 15. Tell the upper case and lower case of a character-207
@@ -139,10 +178,18 @@
 34. Summatio of N input passenger weight-26
 35. <b>Choklet interesting problem -27<b>
   
+
+</details>
+
+`this codes are inside:` 
+- **01-Basic Mathematical Problems solved in C/Basic codes/**
+
+ 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+
   
   
   
- ### Problems For Examination-2
+### 📚 Problems For Examination-2
  
  ✅ Array retated problem set & solutions: https://docs.google.com/document/d/1JRYttO-7sTSy8tx6Xt5T5DtxCIgDCqSkAS5Q-6CVDqY/edit
  
