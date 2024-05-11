@@ -202,7 +202,7 @@
 
  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 
 
-#  👇 Exercise problems:
+#   👇 Exercise problems:
 
 ### 📚 Problems For Examination-1
 
@@ -262,24 +262,29 @@
  ✅ Array retated problem set & solutions: https://docs.google.com/document/d/1JRYttO-7sTSy8tx6Xt5T5DtxCIgDCqSkAS5Q-6CVDqY/edit
  
  
-### 🔘 Folder name : 🔥 week-3
+
+<details>
+<summary><b>🔘 Folder name : 🔥 week-3 ♻️ Array [ ] </b></summary>
+
 ♻️ Array
  
+    1. Simple array-601
+    2. How to take basic input and output of an array-602
+    3. How to take n th element input of an array-603
+    4. Find the max and min element of an array-604
+    5. <h3>Find the 2nd maximum element from an array-606</h3>
+    6. Find the 3rd maximum element from an array-607
+    7. Find the 4th maximum element from an array-608
+    8. <h3> Find the 2nd minimum element from an array-609</h3>
+    9. <h3> Find the unique and duplicate from an array -610</h3>
+    10. Count the number of odd or even prestent in the array-605
+    11. Find out the missing number from array element-CSES -1083
+</details>
+<br>
 
-1. Simple array-601
-2. How to take basic input and output of an array-602
-3. How to take n th element input of an array-603
-4. Find the max and min element of an array-604
-5. <h3>Find the 2nd maximum element from an array-606</h3>
-6. Find the 3rd maximum element from an array-607
-7. Find the 4th maximum element from an array-608
-8. <h3> Find the 2nd minimum element from an array-609</h3>
-9. <h3> Find the unique and duplicate from an array -610</h3>
-10. Count the number of odd or even prestent in the array-605
-11. Find out the missing number from array element-CSES -1083
 
-
-### 🔘 Folder name : 🔥 week-4
+<details>
+<summary><b>🔘 Folder name : 🔥 week-4 [♻️ String and 2D array] </b></summary>
 
 ♻️ String and 2D array
  
@@ -300,7 +305,7 @@
  14. <h3>Codeforce: String task -118A</h3>
  15. <h3>Codeforce: Way to long words -71A</h3>
  16. <h3>Codeforce: Word Capitalization -281A</h3>
- 
+  
  17.Magic matrix -413
  
  18.String reverse -414
@@ -310,12 +315,17 @@
  20.String concate -416
  
  21.String character to digit -418
-  
- ```diff
- 22. <h3>String Sorting usnig frequency array-417</h3> 
- ```
 
-### 🔘 Folder name : 🔥 week-6-Functons
+ 22.<h3>String Sorting usnig frequency array-417</h3> 
+
+</details>
+<br>
+
+
+
+
+<details>
+<summary><b> 🔘 Folder name : 🔥 week-6-Functions </b></summary>
 
 <b> 0. write a function of sum -600</b>
 <p> 1. write a function of sum -600</p>
@@ -331,7 +341,13 @@
 <p> 9. Sum of Array function -609</p>
 <p> 10. GCM and LCN  function -610</p>
 
-### 🔘 Folder name : 🔥 week-6-Functons and pointers
+
+</details>
+</br>
+
+
+<details>
+<summary><b> 🔘 older name : 🔥 week-6-Functions and pointers </b></summary>
 
 <p> 1. Warning print function -700</p>
 <p> 2. N times test case function -701</p>
@@ -340,11 +356,7 @@
 <p> 5.pointer memory address print -704</p>
 <p> 6. Pointers of pointers -705</p>
 <p> 7. Swap function using pointer -707</p>
-
-
-```diff
-
- ```
+</details>
 
 
 
