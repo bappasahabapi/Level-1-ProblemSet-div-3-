@@ -83,6 +83,73 @@
         - ♻️ [week-6-[Stack_&&_Queue]](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/02-Basic%20Data%20Structure-C%2B%2B/week-6-%5Bstack%2Bqueue%5D)
 
             - **https://visualgo.net/en/list**
+            - 
+        - 🎄🎄🎄🎄🎄 **Basic Data Structure C++** 
+
+        📁  **Folder name :**
+
+        - `🔘🔥 week-2-C++`
+
+            - 2001-arrayOfSum
+                
+            - 2002-stringOperation
+                
+
+       - `🔘🔥 week-2-C++`
+
+       - `🔘🔥 week-3-C++`
+
+            - 01-Merge-sort.cpp
+            - 02-Merge-sort.js
+            - 03-**merge-sort-of-two-array**
+            - 04-simple-merge
+            - 05-solved-5
+            - 10-Quick-sort
+            - 11-Quick-sort-takes-user-input
+            - 12-Quick-sort-non-increasing-order
+
+
+    - `🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 🔥`
+
+        01-structure-of-linked-list.cpp
+        
+        02-insert-in-head-linked-list.cpp
+        
+        03-traverse-linked-list.cpp
+        
+        04-searching-in-linked-list.cpp
+        
+        05-searching-all-possible-occurrence-linked-list.cpp
+
+
+    -  `🔘🔥 week-4-C++`
+        
+    - `🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 [single linked list] 🔥`
+        
+        06-linkedList-length.cpp
+        
+        07-orderOf-1-length.cpp
+        
+        08-insert-at-any-index.cpp
+        
+        09-delete-at-head.cpp
+        
+        10-delete-at-any-node.cpp
+        
+        11-insert-after-a-value.cpp
+        
+        12-reverse-print.cpp
+        
+        14-structure.cpp
+        
+        15-insertion-at-head.cpp
+        
+        16-insertion-at-any-index.cpp
+        
+        17-deletion.cpp
+        
+        18-reverse.cpp
+        
 
 </details>
 
@@ -134,6 +201,7 @@
 1. https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php -->
 
  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 
+
 #  👇 Exercise problems:
 
 ### 📚 Problems For Examination-1
@@ -279,75 +347,4 @@
  ```
 
 
-
-###🎄🎄🎄🎄🎄 Basic Data Structure C++ 
-🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
-### 🔘 Folder name :
-
-###    `🔘🔥 week-2-C++`
-
-2001-arrayOfSum
-
-2002-stringOperation
-###    `🔘🔥 week-2-C++`
-
-###    `🔘🔥 week-3-C++`
-
-01-Merge-sort.cpp
-
-02-Merge-srot.js
-
-03-merge-sort-of-two-array
-
-04-simple-merge
-
-05-solved-5
-
-10-Quick-sort
-
-11-Quick-sort-takes-user-input
-
-12-Quick-sort-non-increaseing-order
-
-
-`🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 🔥`
-
-01-structure-of-linked-list.cpp
-
-02-insert-in-head-linked-list.cpp
-
-03-traverse-linked-list.cpp
-
-04-searching-in-linked-list.cpp
-
-05-searching-all-possible-occurrence-linked-list.cpp
-
-
-###    `🔘🔥 week-4-C++`
-
-`🔥𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁 🔥`
-
-06-linkedList-length.cpp
-
-07-orderOf-1-length.cpp
-
-08-insert-at-any-index.cpp
-
-09-delete-at-head.cpp
-
-10-delete-at-any-node.cpp
-
-11-insert-after-a-value.cpp
-
-12-reverse-print.cpp
-
-14-structure.cpp
-
-15-insertion-at-head.cpp
-
-16-insertion-at-any-index.cpp
-
-17-deletion.cpp
-
-18-reverse.cpp
 
