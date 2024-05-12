@@ -56,3 +56,26 @@ public:
 
 
 };
+
+int main(){
+
+    node *root = new node(0);
+
+    root->left=new node(1);
+    root->right=new node(2);
+
+    root->left->left=new node(3);
+    root->left->right=new node(4);
+}
+
+
+/* 
+         
+        0
+       /  \
+      1    2
+     / \   |
+    3   4  NULL
+    |    |
+    NLL  NULL
+ */
