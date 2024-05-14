@@ -3,8 +3,16 @@
 #include<queue>
 using namespace std;
 
-class node{
-public:
+// class node{
+// public:
+//     int id;
+//     int value;
+//     node *Left;
+//     node *Right;
+//     node *parent;
+// };
+struct node{
+// public:
     int id;
     int value;
     node *Left;

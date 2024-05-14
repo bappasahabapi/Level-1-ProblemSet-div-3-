@@ -1,5 +1,7 @@
-#include <iostream>
-#include <queue>
+#include <bits/stdc++.h>
+// #include <iostream>
+// #include <queue>
+
 using namespace std;
 
 class node
@@ -20,10 +22,56 @@ public:
         root = nullptr;
     }
 
-    // Create node clss
+    void printLevelWise(node *root)
+    {
+
+        if (root == nullptr)
+        {
+            cout << "Tree is empty!" << endl;
+            return;
+        }
+
+        queue<node *> q;
+
+        // O-th level
+        q.push(root);
+        q.push(NULL);
+        cout << "0 th level: " << root->value << endl;
+
+        // loop is working till the queue is not empty size
+        while (!q.empty())
+        {
+            node *node = q.front();
+            q.pop(); // value / NULL
+
+            // if front element of  queue is not null
+            if (node != NULL)
+            {
+                cout << node->value << " ";
+
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                {
+                    q.push(node->right);
+                }
+            }
+
+            // if queue is null
+            else if (!q.empty())
+            {
+                q.push(NULL);
+            }
+            // if queue is both null and empty we break out the loop
+        }
+        // queue is empty
+        cout << endl;
+    }
+
+    // Create node class
     node *CreateNewNode(int value)
     {
-        node* newNode = new node();
+        node *newNode = new node();
         newNode->data = value;
         newNode->left = nullptr;
         newNode->right = nullptr;
@@ -32,41 +80,67 @@ public:
         return newNode;
     };
 
-    void BFS()
+    void Insertion(int id, int value)
     {
-        queue<node*> q;
-        // std::queue<node *> q;
+        node* newnode = CreateNewNode(id, value);
+        if(root==NULL)
+        {
+            root = newnode;
+            return;
+        }
+        queue<node*>q;
         q.push(root);
 
-        while (!q.empty())
+        while(!q.empty())
         {
-            node *a = q.front();
+            node* a = q.front();
             q.pop();
 
-            // handle cornar case
-            int p = -1, l = -1, r = -1;
-            if (a->left != nullptr)
+            if(a->Left != NULL){
+                q.push(a->Left);
+            }
+            
+            else{
+                //Insert in left child of node a
+                a->Left = newnode;
+                newnode->parent = a;
+                return;
+            }
+            if(a->Right != NULL){
+                q.push(a->Right);
+            }
+            else{
+                //Insert in right child of node a
+                a->Right = newnode;
+                newnode->parent = a;
+                return;
+            }
+
+        }
+    }
+    
+    //printWiseLevel
+    void BFS()
+    {
+        queue<node *> q;
+        q.push(root);
+
+        while (!q.empty()) // q !==nlllptr
+        {
+            node *a = q.front(); // a=root=front()
+            q.pop();
+
+            int l = -1, r = -1, p = -1;
+            if (a->left)
             {
                 l = a->left->data;
-                q.push(a->left); // meas a.left point which vlaue is pushed to queue
+                q.push(a->left);
             }
-            if (a->right != nullptr)
+            if (a->right)
             {
                 r = a->right->data;
                 q.push(a->right);
             }
-
-            if (a->parent != nullptr)
-            {
-
-                p = a->parent->data;
-            }
-
-            cout<<"Node value: "<<a->data ;
-            cout<<"Left Child: "<<a->l;
-            cout<<"Right Child: "<<a->r;
-            cout<<"Parent is: "<<p<<endl;
-
         }
     }
 };
