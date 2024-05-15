@@ -45,7 +45,7 @@ public:
             // Rule-1: handle duplication value
             if (currentNode->value == newNode->value)
             {
-                cout << "Break BST rule" << endl;
+                cout << "Break BST rule "<<newNode->value << endl;
                 return;
             }
 
@@ -105,6 +105,7 @@ int main()
     bst.insert(3);
     bst.insert(5);
     bst.insert(7);
+    bst.insert(8);
     bst.insert(8);
     cout<<endl;
     bst.BFS();
