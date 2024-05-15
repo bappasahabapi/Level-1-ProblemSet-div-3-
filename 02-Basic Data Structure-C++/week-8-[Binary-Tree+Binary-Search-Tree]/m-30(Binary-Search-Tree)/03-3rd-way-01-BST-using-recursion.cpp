@@ -15,7 +15,7 @@ struct Node
     }
 };
 
-Node *insetBST(Node *root, int value)
+Node *insertInBST(Node *root, int value)
 {
     if (root == NULL)
     {
@@ -23,12 +23,12 @@ Node *insetBST(Node *root, int value)
     }
     if (value < root->value)
     {
-        root->left = insetBST(root->left, value);
+        root->left = insertInBST(root->left, value);
     }
     else
     {
 
-        root->right = insetBST(root->right, value);
+        root->right = insertInBST(root->right, value);
     }
 
     return root;
@@ -46,12 +46,12 @@ int main()
 {
     // as we make the fuction return type pointer so, we have to create pointer type object;
     Node *root = NULL;
-    root =insetBST(root,5);
-    insetBST(root,1);
-    insetBST(root,3);
-    insetBST(root,4);
-    insetBST(root,2);
-    insetBST(root,7);
+    root =insertInBST(root,5);
+    insertInBST(root,1);
+    insertInBST(root,3);
+    insertInBST(root,4);
+    insertInBST(root,2);
+    insertInBST(root,7);
 
     //print in InOrder format in DFS
     inOrder(root);

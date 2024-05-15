@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <iostream>
+#include<queue>
 using namespace std;
 
 class Node
@@ -25,7 +27,10 @@ public:
         root = nullptr;
     }
 
-    // insert node [easiest way]
+    // todo:2 insert node [using recursion]
+  
+
+    // todo:1 insert node [easiest way]
     void insert(int value)
     {
         Node *newNode = new Node(value);
@@ -45,7 +50,7 @@ public:
             // Rule-1: handle duplication value
             if (currentNode->value == newNode->value)
             {
-                cout << "Break BST rule "<<newNode->value << endl;
+                cout << "Break BST rule " << newNode->value << endl;
                 return;
             }
 
@@ -100,24 +105,31 @@ int main()
 {
 
     BST bst;
-    bst.insert(6);
-    bst.insert(4);
-    bst.insert(3);
-    bst.insert(5);
-    bst.insert(7);
-    bst.insert(8);
-    bst.insert(8);
-    cout<<endl;
+    bst.insertBTS(6);
+    bst.insertBTS(4);
+    bst.insertBTS(3);
+    bst.insertBTS(5);
+    bst.insertBTS(7);
+    bst.insertBTS(8);
+    bst.insertBTS(8);
+    // bst.insert(6);
+    // bst.insert(4);
+    // bst.insert(3);
+    // bst.insert(5);
+    // bst.insert(7);
+    // bst.insert(8);
+    // bst.insert(8);
+    cout << endl;
     bst.BFS();
-    cout<<endl;
+    cout << endl;
 
     return 0;
 }
 
-    /*
-        EXPECTED OUTPUT:
-        ----------------
-        Breadth First Search:
-        6,4,7,3,5,8
+/*
+    EXPECTED OUTPUT:
+    ----------------
+    Breadth First Search:
+    6,4,7,3,5,8
 
-    */ 
+*/
