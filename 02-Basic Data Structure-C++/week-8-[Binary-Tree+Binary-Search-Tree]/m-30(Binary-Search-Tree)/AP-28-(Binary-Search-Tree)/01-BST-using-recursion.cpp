@@ -15,7 +15,7 @@ struct Node
     }
 };
 
-Node *insetBST(Node *root, int value)
+Node* insetBST(Node *root, int value)
 {
     if (root == NULL)
     {
@@ -34,6 +34,7 @@ Node *insetBST(Node *root, int value)
     return root;
 }
 
+Node* searachInBST
 // it gives sorted order binary search tree
 void inOrder(Node *root){
     if(root == NULL) return;
@@ -41,6 +42,7 @@ void inOrder(Node *root){
     cout<<root->value<<" ";
     inOrder(root->right);
 }
+
 
 int main()
 {
