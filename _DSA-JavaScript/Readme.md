@@ -1,2 +1,4 @@
-<h3>01. Class</h3>
-<h3>02. Pointer</h3>
+Bangla Explanation:
+
+-    [🚀 Big O Notation]()
+-    [🚀 Class in JavaScript]()
