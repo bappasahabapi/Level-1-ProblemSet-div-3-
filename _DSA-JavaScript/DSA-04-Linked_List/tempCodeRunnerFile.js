@@ -1,2 +1,0 @@
-op()
-console.log(myLinkedList)

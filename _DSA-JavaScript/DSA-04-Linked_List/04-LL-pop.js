@@ -43,7 +43,7 @@ class LinkdList {
   pop(){
 
     // case 1: no element
-    if(!this.head || this.length ===0){
+    if(!this.head){
         return undefined;
     }
     // case 2: two or more elements
