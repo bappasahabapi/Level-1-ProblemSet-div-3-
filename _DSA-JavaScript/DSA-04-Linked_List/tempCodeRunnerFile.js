@@ -1,0 +1,2 @@
+op()
+console.log(myLinkedList)
